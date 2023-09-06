@@ -1,4 +1,4 @@
-# Utsavmania - Purnea College of Engineering Hackathon
+# Utsavmania - Purnea College of Engineering Hackathon.
 
 Welcome to the README for the Utsavmania website, created during the **Purnea College of Engineering Hackathon**. This project was a collaborative effort by a team of enthusiastic developers: Abhishek Anand, Raushan Kumar, Gautam Singh, and Abhishek Kumar.
 
